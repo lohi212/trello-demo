@@ -1,0 +1,14 @@
+.task-list-container {
+    height: 100vh;
+    width: 300px;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    margin: 10px;
+    min-width: 300px;
+}
+
+.task-list-container .task {
+    padding: 10px;
+    background-color: #fff;
+    margin: 10px;
+}

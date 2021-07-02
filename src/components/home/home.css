@@ -1,0 +1,23 @@
+.home-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 20px;
+    overflow-x: auto;
+}
+
+.edit-modal {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.edit-modal .title-edit {
+    padding: 5px;
+    margin: 10px 0px;
+}
